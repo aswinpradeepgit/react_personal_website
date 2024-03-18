@@ -23,9 +23,9 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
+    firstName: "Aswin",
+    lastName: "Pradeep",
+    initials: "Ap", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
@@ -37,15 +37,15 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'based in the India'
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "Software Engineer at Google"
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "aswinpradeep15@gmail.com"
         }
     ],
     socials: [
@@ -78,11 +78,11 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Aswin Pradeep. I'm a software engineer from India. I enjoy ldeveloping software tech products, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['javascript','java','python','react','nodejs','expressjs','spring','springboot','fast api', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
+            exposedTo: ['machine learning', 'deep learning', 'nlp']
         }
     ,
     hobbies: [
