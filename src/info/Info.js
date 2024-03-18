@@ -81,7 +81,7 @@ export const info = {
     bio: "Hello! I'm Aswin Pradeep. I'm a software engineer from India. I enjoy ldeveloping software tech products, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript','java','python','react','nodejs','expressjs','spring','springboot','fast api', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
+            proficientWith: ['javascript','java','python','react','nodejs','expressjs','spring','springboot','fast api', 'git', 'github'],
             exposedTo: ['machine learning', 'deep learning', 'nlp']
         }
     ,
