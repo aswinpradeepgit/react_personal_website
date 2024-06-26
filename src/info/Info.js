@@ -26,7 +26,7 @@ export const info = {
     firstName: "Aswin",
     lastName: "Pradeep",
     initials: "Ap", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    position: "a wannabe backend software engineer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -41,7 +41,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Software Engineer at Google"
+            text: "freelance backend developer"
         },
         {
             emoji: "📧",
@@ -50,27 +50,27 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
+            link: "https://www.facebook.com/aswin.pradeep.12/",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
         {
-            link: "https://instagram.com",
+            link: "https://www.instagram.com/aswin_pradeep__/",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/aswinpradeepgit",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/aswinpradeep621/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
+            link: "https://x.com/mr__ap_",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
@@ -78,11 +78,17 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Aswin Pradeep. I'm a software engineer from India. I enjoy ldeveloping software tech products, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello, I'm Aswin Pradeep. I'm currently in the data science domain with an edtech startup, working on the curriculum team. I'm also pursuing a Master's in Computer Science. I aim to transition into software engineering because I love problem-solving and building tech products, especially robust backend systems. I have expertise in DSA and use Java and Python for backend development. I'm passionate about system design (both LLD and HLD), and I enjoy learning, applying new concepts, and teaching coding online. I've built some cool projects that you can check out in the portfolio section.",
+    
+
+    
+    
+    
+    
     skills:
         {
-            proficientWith: ['javascript','java','python','react','nodejs','expressjs','spring','springboot','fast api', 'git', 'github'],
-            exposedTo: ['machine learning', 'deep learning', 'nlp']
+            proficientWith: ['java','python','springboot',"Django",'fast api', "mysql",'git', 'github',"system design(lld,hld)", "dsa","aws", "docker", "kubernetes", "redis", "kafka"],
+            exposedTo: ["Backend Development", "Microservices", "API development (RESTFul, GraphQL)",'machine learning', 'deep learning', 'nlp',"langchain",'streamlit']
         }
     ,
     hobbies: [
@@ -91,31 +97,31 @@ export const info = {
             emoji: '📖'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'Working-out',
+            emoji: '🏋🏻‍♀️'
         },
         {
             label: 'movies',
             emoji: '🎥'
         },
         {
-            label: 'cooking',
-            emoji: '🌶'
+            label: 'Gaming',
+            emoji: '🎮'
         }
 // Same as above, change the emojis to match / relate to your hobbies or interests.
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "Trade automation",
+            live: "https://ns-frontend-v2.streamlit.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/aswinpradeepgit/Automation_Main_Repo.git", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Personal portfolio website",
+            live: "https://www.aswinpradeep.com",
+            source: "https://github.com/aswinpradeepgit/react_personal_website.git",
             image: mock2
         },
         {
@@ -126,14 +132,14 @@ export const info = {
         },
         {
             title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://",
+            source: "https://",
             image: mock4
         },
         {
             title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://",
+            source: "https://",
             image: mock5
         }
     ]
