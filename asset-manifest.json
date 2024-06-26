@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react_personal_website/static/css/main.db3d1917.css",
+    "main.js": "/react_personal_website/static/js/main.0800a198.js",
+    "static/media/self.png": "/react_personal_website/static/media/self.873d26c41653bd423116.png",
+    "static/media/mock2.png": "/react_personal_website/static/media/mock2.c96c5156faae260f4ef8.png",
+    "static/media/mock1.png": "/react_personal_website/static/media/mock1.bd9a7f5b31bb8f11a8bf.png",
+    "static/media/mock5.png": "/react_personal_website/static/media/mock5.c9b5f54e8517e13fc897.png",
+    "static/media/mock3.png": "/react_personal_website/static/media/mock3.8624cffbb7ae4e742c4c.png",
+    "static/media/mock4.png": "/react_personal_website/static/media/mock4.2b2ba794bc5cd75eb2c1.png",
+    "index.html": "/react_personal_website/index.html",
+    "main.db3d1917.css.map": "/react_personal_website/static/css/main.db3d1917.css.map",
+    "main.0800a198.js.map": "/react_personal_website/static/js/main.0800a198.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3d1917.css",
+    "static/js/main.0800a198.js"
+  ]
+}
